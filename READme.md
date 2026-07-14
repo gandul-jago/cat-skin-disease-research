@@ -193,6 +193,14 @@ result/
 
 ---
 
+# Prediction example
+
+![health](image-3.png)
+![ringworm](image-4.png)
+![scabies](image-6.png)
+
+---
+
 # 🚀 Penggunaan Model
 
 Model hasil penelitian ini digunakan sebagai model inferensi pada repository berikut:
